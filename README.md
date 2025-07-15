@@ -4,6 +4,31 @@
 
 Me chamo Yuri Queiroz, tenho 22 anos e sou natural de Minas Gerais. Concluí o ensino médio no Francisco Inácio Peixoto. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FAMINAS e curso de especialização em Back-end pelo programa Oracle Next Education em parceria com a Alura. Sou apaixonado por tecnologia e novos aprendizados por meio de networking e projetos reais.
 
+<p align="left">
+    <a href="https://www.linkedin.com/in/yuque/">
+        <img 
+            alt="Meu perfil do linkedin" 
+            title="Meu linkedin" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://instagram.com/yuriqueiroz7">
+        <img 
+            alt="Meu perfil do instagram" 
+            title="Meu instagram" 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/Yuque7?tab=repositories&sort=stargazers">
+        <img 
+            alt="Meus repositórios do GitHub" 
+            title="Meus repositórios" 
+            src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+        />
+    </a>
+</p>
+
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
