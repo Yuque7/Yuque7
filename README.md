@@ -19,7 +19,7 @@ Me chamo Yuri Queiroz, tenho 22 anos e sou natural de Minas Gerais. Atualmente, 
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="https://github.com/Yuque7?tab=repositories&sort=stargazers">
+    <a href="https://github.com/yuriqueirozz?tab=repositories&sort=stargazers">
         <img 
             alt="Meus repositórios do GitHub" 
             title="Meus repositórios" 
@@ -157,14 +157,14 @@ Me chamo Yuri Queiroz, tenho 22 anos e sou natural de Minas Gerais. Atualmente, 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Yuque7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=yuriqueirozz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuque7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriqueirozz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
   
 </p>
