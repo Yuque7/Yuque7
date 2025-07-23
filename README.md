@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Yuri Queiroz, tenho 22 anos e sou natural de Minas Gerais. Concluí o ensino médio no Francisco Inácio Peixoto. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FAMINAS e curso de especialização em Back-end pelo programa Oracle Next Education em parceria com a Alura. Sou apaixonado por tecnologia e novos aprendizados por meio de networking e projetos reais.
+Me chamo Yuri Queiroz, tenho 22 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FAMINAS e curso de especialização em Back-end pelo programa Oracle Next Education em parceria com a Alura. Sou apaixonado por tecnologia e novos aprendizados por meio de networking e projetos reais.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/yuque/">
